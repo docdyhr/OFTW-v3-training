@@ -17,7 +17,7 @@
 
 We used Python, Apple's Endpoint Security framework and local running LLMs with LM Studio / OpenAI's API to detect macOS malware.
 
-If you're interested to learn more about #OFTW from Objective-See foundation and the training check my blog post: https://jaybird1291.github.io/blog-cyber/en/posts/oftw-v3 
+If you're interested to learn more about #OFTW from Objective-See foundation and the training check my blog post: https://jaybird1291.github.io/blog-cyber/posts/oftw-v3 
 
 ## Repository Structure
 
