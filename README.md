@@ -1,3 +1,13 @@
+<div align="right">
+
+<a href="https://railway.com?referralCode=QhjuBc">
+
+  <img width="160" src="https://raw.githubusercontent.com/docdyhr/.github/main/assets/railway-corner-v2@2x.png" alt="Deploy on Railway — $20 free credits">
+
+</a>
+
+</div>
+
 # OFTW v3.0 - Training "How to Use LLMs to Detect macOS Malware" by Martina Tivadar
 
 > Here you'll find Martina Tivadar's training slides and labs, along with the scripts to automate malware detection on macOS using the OpenAI o4‑mini model with GitHub actions as part of the last lab.
